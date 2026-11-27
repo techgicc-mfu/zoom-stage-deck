@@ -8,6 +8,21 @@ Available as a **Web App**, an **Electron Desktop App**, and an **Android App (.
 
 ---
 
+> [!CAUTION]
+> **⚠️ WARNING & DISCLAIMER — USE AT YOUR OWN RISK!**
+> This application communicates directly with your Zoom MultiStomp pedal and M-VAVE footswitch hardware via clean-room reverse-engineered MIDI SysEx protocols and raw memory buffers. 
+> * **Risk of Device Freeze/Bricking:** Pulling cables or losing power during transmission can cause pedals to freeze or corrupt memory.
+> * **Risk of Patch Deletion:** Writing or syncing can overwrite saved presets. **Always back up all 50 patches before using this software.**
+> * Read the complete safety guide and setup instructions in **[TUTORIAL.md](TUTORIAL.md)** before proceeding.
+
+---
+
+## 📖 [Read the Step-by-Step Tutorial & Safety Guide (TUTORIAL.md)](TUTORIAL.md)
+
+For complete hardware connections, Android/MIUI setup, M-VAVE Chocolate Plus pairing, and emergency recovery, see **[TUTORIAL.md](TUTORIAL.md)**.
+
+---
+
 ## 🌟 Key Features
 
 ### 1. 🎚️ 3 Performance Modes
